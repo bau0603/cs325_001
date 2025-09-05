@@ -1,4 +1,4 @@
 i = 7
-j = 10
+j = 17
 print(i+j)
 print("Hello SIUE")
